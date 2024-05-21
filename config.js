@@ -159,8 +159,8 @@ const CONFIG = {
 					link: 'https://www.hashnode.com',
 				},
 				{
-					name: 'X',
-					link: 'https://www.x.com',
+					name: 'Instagram',
+					link: 'https://www.instagram.com',
 				},
 				{
 					name: 'Slack',
