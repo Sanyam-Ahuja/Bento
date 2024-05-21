@@ -36,6 +36,17 @@ const CONFIG = {
 	hourDarkThemeActive: '18:30',
 	hourDarkThemeInactive: '05:00',
 
+	// Weather
+	weatherKey: 'a92b81ba55be2b28d89ace89ea9169d9', // Write here your API Key
+	weatherIcons: 'Nord', // 'Onedark', 'Nord', 'Dark', 'White'
+	weatherUnit: 'C', // 'F', 'C'
+	language: 'en', // More languages in https://openweathermap.org/current#multi
+
+	trackLocation: false, // If false or an error occurs, the app will use the lat/lon below
+	defaultLatitude: '27.592',
+	defaultLongitude: '76.609',
+
+
 	// ┌┐ ┬ ┬┌┬┐┌┬┐┌─┐┌┐┌┌─┐
 	// ├┴┐│ │ │  │ │ ││││└─┐
 	// └─┘└─┘ ┴  ┴ └─┘┘└┘└─┘
