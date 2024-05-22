@@ -56,7 +56,7 @@ const CONFIG = {
 			id: '1',
 			name: 'Github',
 			icon: 'notebook',
-			link: 'https://https://glorifire.com/',
+			link: 'https://glorifire.com/',
 		},
 		{
 			id: '2',
