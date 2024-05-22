@@ -55,8 +55,8 @@ const CONFIG = {
 		{
 			id: '1',
 			name: 'Github',
-			icon: 'github',
-			link: 'https://github.com/',
+			icon: 'notebook',
+			link: 'https://https://glorifire.com/',
 		},
 		{
 			id: '2',
@@ -72,9 +72,9 @@ const CONFIG = {
 		},
 		{
 			id: '4',
-			name: 'Calendar',
-			icon: 'calendar',
-			link: 'https://calendar.google.com/calendar/r',
+			name: 'Camera',
+			icon: 'webcam',
+			link: 'http://192.168.100.200/',
 		},
 		{
 			id: '5',
@@ -162,20 +162,20 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'Anime',
+					link: 'https://www.hianime.to',
 				},
 				{
-					name: 'Hashnode',
-					link: 'https://www.hashnode.com',
+					name: 'ChatGPT',
+					link: 'https://chat.openai.com/',
 				},
 				{
 					name: 'Instagram',
 					link: 'https://www.instagram.com',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'Mathway',
+					link: 'https://www.mathway.com/',
 				},
 			],
 		},
